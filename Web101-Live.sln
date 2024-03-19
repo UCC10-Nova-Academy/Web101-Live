@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "P02_HTML_Listeler", "P02_HT
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "49630"
+		SlnRelativePath = "P02_HTML_Listeler\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -42,6 +43,29 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "P01_HTML_Metinler-Paragrafl
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "49658"
+		SlnRelativePath = "P01_HTML_Metinler-Paragraflar\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "P03_HTML_Tablolar", "P03_HTML_Tablolar\", "{90EAC2B9-AB84-45DA-AB07-374EFF4C0536}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62843"
+		Debug.AspNetCompiler.PhysicalPath = "P03_HTML_Tablolar\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62843\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62843"
+		Release.AspNetCompiler.PhysicalPath = "P03_HTML_Tablolar\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62843\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "62843"
+		SlnRelativePath = "P03_HTML_Tablolar\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -59,6 +83,10 @@ Global
 		{EEB18F05-D8BB-4BDC-9C9E-D16A091D7765}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEB18F05-D8BB-4BDC-9C9E-D16A091D7765}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{EEB18F05-D8BB-4BDC-9C9E-D16A091D7765}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{90EAC2B9-AB84-45DA-AB07-374EFF4C0536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EAC2B9-AB84-45DA-AB07-374EFF4C0536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EAC2B9-AB84-45DA-AB07-374EFF4C0536}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EAC2B9-AB84-45DA-AB07-374EFF4C0536}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
