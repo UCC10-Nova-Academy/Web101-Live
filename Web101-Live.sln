@@ -131,6 +131,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "P06_HTML_SemanticHTML", "P0
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63851"
+		SlnRelativePath = "P06_HTML_SemanticHTML\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
