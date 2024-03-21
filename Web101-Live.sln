@@ -109,6 +109,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "P05_HTML_Multimedia(1)", "P
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63293"
+		SlnRelativePath = "P05_HTML_Multimedia\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
