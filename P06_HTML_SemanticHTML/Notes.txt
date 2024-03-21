@@ -1,0 +1,48 @@
+﻿HTML5 bazı ek akıllı anlamsal etiketler getirdi yanında.
+
+article : Baımsız içerikleri ve bazı makale türü bilgileri tanımlar.
+
+aside : Kenar çubuklarını tanımlar
+
+details : Bazı ek ayrıntıları tanımlar, içerir
+
+figure : Bir görsel içerik tanım
+
+figcaption : Görsel içeriğin başlığını tanımlar
+
+header : Sayfa için başlık tanımlar.
+
+footer : Sayfa için bir alt bilgiyi tanımlar
+
+nav: Site/sayfa içindeki bağlantılar, menü gibi elementleri tanımlar.
+
+section : Sayfa içindeki bir bölgeyi/bölümü tanımlar
+
+---------------
+Bloklar--Div etiketi
+
+Div etiketi kullanılarak meydana getirlen kutucuklar.
+-----------------------------------
+CSS3 
+Syntax : p {color:red;text-align:center}
+
+Şu yapının okunabilirli biraz daha fazla
+p {
+	color:red;
+	text-align:center;
+}
+
+Kod yapısı:
+
+p : Selector - seçici
+{ } : Declaration block - Deklarasyon bloğu
+color,text-align : Properties - özelliklerimiz
+red,center : Values - değerler
+: : eşitlik gibi
+; : satırımın bittiğni belirtiyor.
+Açıklama satırı yazmak istersek /* */ aralarına yazılıyor.
+
+3 farklı sekilde kullanılabilir 
+1. Direkt olarak HTML etiketlerinin içinde
+2. Sayfa içinde ayrı bir yerde yazma
+3. Ayrı bir dosyanın içinde yazıp ilgili dosyayı html sayfası içinden kullanma

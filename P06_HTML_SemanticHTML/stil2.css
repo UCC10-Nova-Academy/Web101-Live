@@ -1,0 +1,36 @@
+﻿body {
+}
+
+#div1
+{
+    margin: 50px;
+    padding: 100px 50px 40px 200px;
+    border: 2px dotted red;
+}
+
+.div2
+{
+    width: 150px;
+    height: auto;
+    border: 2px solid green;
+}
+
+.div3
+{
+    background-color: brown;
+    border: 2px solid black;
+    color:white;
+}
+
+p{
+    color:red;
+    font-size:xx-large;
+    font-family:Tahoma;
+}
+
+.yazi2
+{
+    color: green;
+    font-size: x-large;
+    font-family: Verdana;
+}
