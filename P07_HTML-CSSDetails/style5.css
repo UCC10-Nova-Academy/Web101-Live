@@ -1,0 +1,10 @@
+﻿body {
+}
+
+#_b{
+    visibility:hidden; /*Görünmez yapar.Kapladığı yer sabit kalır*/
+}
+
+#_d{
+    display:none; /* Direkt olarak ekrandan kaldırır.*/
+}
