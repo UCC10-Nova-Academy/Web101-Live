@@ -1,0 +1,14 @@
+﻿body {
+}
+
+.secici{
+    text-align:center;
+    font-size:24px;
+    font-family:'Segoe UI';
+    color:white;
+    display:block;
+    margin : 40px;
+    padding:20px;
+    background:#c00;
+    background-size:cover;
+}
