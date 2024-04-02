@@ -1,0 +1,14 @@
+﻿body {
+}
+
+#kutu{
+    padding:10px;
+    background-color:aqua;
+    border:1px solid gray;
+    width:200px;
+    height:200px;
+}
+
+#kapat{
+    float:right;
+}
