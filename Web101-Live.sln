@@ -135,6 +135,28 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "P06_HTML_SemanticHTML", "P0
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "P07_HTML-CSSDetails", "P07_HTML-CSSDetails\", "{D4EFB6A1-4086-43BD-A59C-3BDB9597D7E8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55505"
+		Debug.AspNetCompiler.PhysicalPath = "P07_HTML-CSSDetails\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55505\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55505"
+		Release.AspNetCompiler.PhysicalPath = "P07_HTML-CSSDetails\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55505\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55505"
+		SlnRelativePath = "P07_HTML-CSSDetails\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +187,10 @@ Global
 		{BA2C7662-74FA-4ECE-A314-72EE472643F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA2C7662-74FA-4ECE-A314-72EE472643F2}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{BA2C7662-74FA-4ECE-A314-72EE472643F2}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{D4EFB6A1-4086-43BD-A59C-3BDB9597D7E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4EFB6A1-4086-43BD-A59C-3BDB9597D7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4EFB6A1-4086-43BD-A59C-3BDB9597D7E8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4EFB6A1-4086-43BD-A59C-3BDB9597D7E8}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

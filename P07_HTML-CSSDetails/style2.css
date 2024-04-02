@@ -1,0 +1,22 @@
+﻿body {
+}
+
+.sabitresima{
+    left:100px;
+    top:10px;
+    position : absolute;
+}
+
+.sabitresimf
+{
+    left: 200px;
+    top: 50px;
+    position: fixed;
+}
+
+.sabitresimr
+{
+    left: 300px;
+    top: 100px;
+    position: relative;
+}
