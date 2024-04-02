@@ -1,0 +1,40 @@
+﻿body {
+}
+
+.kirmizi{
+    color:red;
+    font-size:16px;
+    font-weight:bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.mavi
+{
+    color: blue;
+    font-size: 26px;
+    font-family:Articulate;
+}
+
+.yesil
+{
+    color: green;
+    font-size: 30px;
+    font-weight:500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.orange
+{
+    color: orange;
+    font-size: 26px;
+    font-weight:lighter;
+    font-family:'Calisto MT'
+}
+
+.aqua
+{
+    color: aqua;
+    font-size: 18px;
+    font-weight:bolder;
+    font-family:'Script MT';
+}
