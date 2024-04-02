@@ -1,0 +1,18 @@
+﻿body {
+}
+
+.grup{
+    color:red;
+    display:block;
+}
+
+.grup1{
+    color:green;
+    border-style:double;
+    display:inline;
+}
+
+.imgcls{
+    height:150px;
+    display:inline;
+}
